@@ -1,5 +1,4 @@
-I'm enjoying it a lot.
-Github is amazing!!!
+## Some Git commands to remember!!!
 
 /* COMANDOS GIT */ git config --global user.name "seu nome" git config --global user.email "seu email" git config --list
 

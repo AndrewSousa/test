@@ -43,4 +43,10 @@ git reset --hard(volta tudo de forma dramatica até o estado antes mesmo da alte
 
 /ENVIAR ARQUIVOS REMOTAMENTE/ git push -u origin master
 
-/CLONAR E BAIXAR ARQUIVOS DO GITHUB/ git clone https://github.com/AndrewSousa/milligram.git "NOME DA PASTA(SEM ASPAS)"
+create a new branch and switch to the new branch you just create: checkout -b "NAME OF THE NEW BRANCH"
+
+After push the new branch, if you want to go back to master branch, just type: checkout master
+
+Once you are in the master branch, if you want to merde the other branch you just create, just type: git merge master
+
+/CLONAR E BAIXAR ARQUIVOS DO GITHUB/ git clone https://github.com/andreferreiradaweb/git-commands
